@@ -1,6 +1,6 @@
 ---
 
-### 3d year student at ITMO University
+### 4th year student at ITMO University
 ### Specialization: Informatics and Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyChris3310&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
